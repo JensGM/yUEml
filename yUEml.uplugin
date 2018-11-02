@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "yUEml",
+	"Description": "Yaml parsing for UE4",
+	"Category": "ReserVR",
+	"CreatedBy": "Jens G. Magnus",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "yUEml",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
